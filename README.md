@@ -8,5 +8,4 @@
 		  user_lvl INT(2),
 		  cust_id INT(4),
 		  is_approved INT(1)
-			primary key (user_id)
 		);
