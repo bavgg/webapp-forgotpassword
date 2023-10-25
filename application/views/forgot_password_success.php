@@ -1,7 +1,9 @@
 <!DOCTYPE html>
+
 <html>
+
 <head>
-  <title><?php echo $title; ?></title> 
+  <title><?php echo $title; ?></title>
 </head>
 
 <body>
@@ -10,7 +12,6 @@
 
 <em><?php echo $message; ?></em>
 
-<em><?php echo $link; ?></em>
-
 </body>
+
 </html>
